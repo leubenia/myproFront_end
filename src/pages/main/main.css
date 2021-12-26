@@ -1,0 +1,38 @@
+.mainBody{
+    width: 80%;
+    margin: auto;
+    background-color: #140906;
+}
+.tilte{
+    /* color: azure; */
+    font-size: 72px;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+.stroy{
+    display: flex;
+    justify-content: flex-end;
+}
+.mytext{
+    font-size: 50px;
+}
+.mystroy{
+    margin-top: 5%;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+.stilte{
+    font-size: 62px;
+}
+p{
+    font-size: 20px;
+}
+#protilte{
+    margin-top: 5%;
+}
+section{
+    height: 500px;
+}

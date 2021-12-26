@@ -1,0 +1,33 @@
+.gittitle{
+    font-size: 30px;
+}
+.giturl{
+    font-size: 15px;
+    /* color: bisque; */
+}
+.gittext{
+    font-size: 20px;
+}
+.gitmain1{
+    margin-top: 10%;
+    height: 480px;
+}
+.gitmain2{
+    float: inline-end;
+    margin-top: 10%;
+    height: 480px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+.gitimg1{
+    width: 480px;
+    height: auto;
+    float: right;
+}
+.gitimg2{
+    width: 480px;
+    height: auto;
+    float: left;
+}
