@@ -25,4 +25,4 @@ jobs:
       with:
         push: true
         file: ./Dockerfile
-        tags: Hprince/myprofront:latest
+        tags: hprince/myprofront:latest
