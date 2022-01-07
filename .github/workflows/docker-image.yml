@@ -25,4 +25,5 @@ jobs:
       with:
         push: true
         file: ./Dockerfile
-        tags: hprince/myprofront:latest
+        platforms: linux/amd64
+        tags: hprinces2/mypro:latest
