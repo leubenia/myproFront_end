@@ -13,6 +13,7 @@ instance.interceptors.request.use((config: AxiosRequestConfig) =>{
 })
 
 
+
 const api = {
     포트폴리오가져와: ()=> instance.get("/portfolio"),
     포트폴리오넣자: (data:object)=> instance.post("/portfolio", data)

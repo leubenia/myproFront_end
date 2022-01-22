@@ -6,10 +6,10 @@ const 헤더 = () => {
 	return (
 		<>
 			<nav className="headerCom">
-				<div>메인</div>
-				<div>누구?</div>
-				<div>주요 경험</div>
-				<div>포트폴리오</div>
+				<div><a href="/">메인</a></div>
+				<div><a href="/who">누구?</a></div>
+				<div><a href="/"> 주요 경험</a></div>
+				<div><a href="/"> 포트폴리오</a></div>
 			</nav>
 			<MobaileNav />
 		</>
